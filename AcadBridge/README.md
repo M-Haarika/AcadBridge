@@ -7,6 +7,31 @@
 ## 📌 Project Overview
 
 AcadBridge is a centralized web platform designed to preserve valuable academic knowledge within an institution. It allows students to upload and access study materials, share placement experiences, and collaborate with peers, ensuring that knowledge is retained across batches.
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/HomePage.png)
+
+### 🔐 Login Page
+![Login Form](screenshots/LoginForm.png)
+
+### 👨‍🎓 Student Dashboard
+![Student Dashboard](screenshots/StudentDashboard.png)
+
+### 👨‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/AdminDashboard.png)
+
+### 📚 Upload Resource
+![Upload Resource](screenshots/UploadResource.png)
+
+### 📝 Request Access
+![Request Access](screenshots/RequestAccess.png)
+
+### ℹ️ About Page
+![About Page](screenshots/AboutPage.png)
+
+### 📞 Contact Us
+![Contact Us](screenshots/ContactUs.png)
 
 ---
 
