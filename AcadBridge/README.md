@@ -10,28 +10,28 @@ AcadBridge is a centralized web platform designed to preserve valuable academic 
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![HomePage](screenshots/HomePage.png)
+![HomePage](screenshots/HomePage.jpg)
 
 ### 🔐 Login Page
-![LoginForm](screenshots/LoginForm.png)
+![LoginForm](screenshots/LoginForm.jpg)
 
 ### 👨‍🎓 Student Dashboard
-![StudentDashboard](screenshots/StudentDashboard.png)
+![StudentDashboard](screenshots/StudentDashboard.jpg)
 
 ### 👨‍💼 Admin Dashboard
 ![AdminDashboard](screenshots/AdminDashboard.png)
 
 ### 📚 Upload Resource
-![UploadResource](screenshots/UploadResource.png)
+![UploadResource](screenshots/UploadResource.jpg)
 
 ### 📝 Request Access
-![RequestAccess](screenshots/RequestAccess.png)
+![RequestAccess](screenshots/RequestAccess.jpg)
 
 ### ℹ️ About Page
-![AboutPage](screenshots/AboutPage.png)
+![AboutPage](screenshots/AboutPage.jpg)
 
 ### 📞 Contact Us
-![ContactUs](screenshots/ContactUs.png)
+![ContactUs](screenshots/ContactUs.jpg)
 
 ---
 
